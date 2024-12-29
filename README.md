@@ -1,1 +1,1 @@
-## [go to wiki](//geotheory/os/wiki)
+## [go to wiki](https://github.com/geotheory/os/wiki)
